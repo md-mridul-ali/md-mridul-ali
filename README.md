@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <!-- Hi 👋 This is <span style="color:blue;">MD. Mridul Ali</span> -->
-  Hi 👋 This is ![MD. Mridul Ali](https://img.shields.io/badge/MD. Mridul Ali-blue)
+</HTML>
+  Hi 👋 This is <p style="color:blue;">MD. Mridul Ali</p>
 </h1>
 
 <h3 align="center">
