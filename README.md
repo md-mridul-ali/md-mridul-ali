@@ -77,9 +77,9 @@ React, Tailwind CSS, DaisyUI
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=MD-MRIDUL-ALI&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MRIDUL-ALI&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -89,7 +89,7 @@ React, Tailwind CSS, DaisyUI
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MRIDUL-ALI&theme=tokyonight" />
 
 </p>
 
@@ -99,7 +99,7 @@ React, Tailwind CSS, DaisyUI
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/MD-MRIDUL-ALI/MD-MRIDUL-ALI/output/github-contribution-grid-snake.svg" />
 
 </p>
 
@@ -122,7 +122,7 @@ https://www.facebook.com/md.mridul.islam.801219
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=MD-MRIDUL-ALIE&color=blue" />
 
 </p>
 
