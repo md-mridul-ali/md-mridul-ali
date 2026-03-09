@@ -122,7 +122,7 @@ https://www.facebook.com/md.mridul.islam.801219
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MD-MRIDUL-ALIE&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=MD-MRIDUL-ALI&color=blue" />
 
 </p>
 
