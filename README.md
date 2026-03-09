@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  Hi 👋 I'm MD. Mridul Ali
+  Hi 👋 This is <span style="color:blue;">MD. Mridul Ali</span>
 </h1>
 
 <h3 align="center">
@@ -128,4 +128,4 @@ https://www.facebook.com/md.mridul.islam.801219
 
 ---
 
-⭐ From [Mridul Ali](https://github.com/YOUR_USERNAME)
+⭐ From [MD. Mridul Ali](https://github.com/md-mridul-ali)
