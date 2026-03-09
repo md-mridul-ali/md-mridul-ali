@@ -1,7 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-</HTML>
-  Hi 👋 This is <p style="color:blue;">MD. Mridul Ali</p>
+  Hi 👋 This is MD. Mridul Ali 
 </h1>
 
 <h3 align="center">
