@@ -1,14 +1,131 @@
-<h1 align="center">Hi 👋 I'm Mridul</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋 I'm MD. Mridul Ali
+</h1>
+
+<h3 align="center">
+💻 Web Developer | ⚙️ Software Enthusiast | 🚀 Problem Solver
+</h3>
 
 <p align="center">
-💻 Web Developer | 🤖 Machine Learning Learner
+Passionate about technology, programming, and building practical software solutions.
+I enjoy learning new technologies and applying them to real-world problems.
 </p>
 
-<div align="center">
+---
 
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![Machine Learning](https://img.shields.io/badge/ML-green)
+# 👨‍💻 About Me
 
-</div>
+🎓 BSc in Computer Science & Engineering  
+🏫 American International University – Bangladesh  
 
+🌱 Currently Learning  
+- Web Technologies  
+- Software Quality Testing  
+- Modern Web Development  
+
+⚡ Interests  
+- Software Development  
+- Web Applications  
+- Problem Solving  
+
+🤝 Open to collaboration and new opportunities
+
+---
+
+# 🚀 Skills
+
+## 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,php,cs,dotnet" />
+</p>
+
+## 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+## 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## 🛠 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+</p>
+
+---
+
+# 📂 Projects
+
+🔹 **Shop Management System**  
+HTML, CSS, JavaScript, PHP  
+
+🔹 **English Janala**  
+HTML, DaisyUI, Tailwind CSS, JavaScript, API  
+
+🔹 **CS Ticket System**  
+React, Tailwind CSS, DaisyUI  
+
+🔹 **E-Book Store**  
+.NET Framework  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email  
+mridulaiub17@gmail.com  
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/md-mridul-ali-/  
+
+📘 Facebook  
+https://www.facebook.com/md.mridul.islam.801219  
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+
+</p>
+
+---
+
+⭐ From [Mridul Ali](https://github.com/YOUR_USERNAME)
