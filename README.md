@@ -52,7 +52,7 @@ I enjoy learning new technologies and applying them to real-world problems.
 
 ## 🛠 Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,trello" />
 </p>
 
 ---
