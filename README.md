@@ -77,9 +77,9 @@ React, Tailwind CSS, DaisyUI
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MD-MRIDUL-ALI&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=md-mridul-ali&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MRIDUL-ALI&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mridul-ali&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -89,7 +89,8 @@ React, Tailwind CSS, DaisyUI
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-MRIDUL-ALI&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-mridul-ali&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=md-mridul-ali&show_icons=true&cache_seconds=1800" /> -->
 
 </p>
 
@@ -99,7 +100,7 @@ React, Tailwind CSS, DaisyUI
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/MD-MRIDUL-ALI/MD-MRIDUL-ALI/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/md-mridul-ali/md-mridul-ali/output/github-contribution-grid-snake.svg" />
 
 </p>
 
