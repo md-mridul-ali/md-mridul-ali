@@ -97,11 +97,14 @@ React, Tailwind CSS, DaisyUI
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://raw.githubusercontent.com/MD-MRIDUL-ALI/MD-MRIDUL-ALI/output/github-contribution-grid-snake.svg" />
 
-</p>
+</p> -->
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/md-mridul-ali/md-mridul-ali/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
