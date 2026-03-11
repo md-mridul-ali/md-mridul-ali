@@ -120,18 +120,14 @@ https://www.facebook.com/md.mridul.islam.801219
 
 ---
 
-<!-- # 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MD-MRIDUL-ALI&color=blue" />
-
-</p> -->
 # 👀 Profile Visitors
+
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=md-mridul-ali&color=blue" />
-<img src="https://profile-counter.glitch.me/md-mridul-ali/count.svg" />
+
 </p>
+
 
 ---
 
