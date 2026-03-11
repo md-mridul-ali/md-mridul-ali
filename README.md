@@ -97,14 +97,12 @@ React, Tailwind CSS, DaisyUI
 
 # 🐍 Contribution Snake
 
-<!-- <p align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/MD-MRIDUL-ALI/MD-MRIDUL-ALI/output/github-contribution-grid-snake.svg" />
 
-</p> -->
-## 🐍 Contribution Snake
+</p>
 
-![Snake animation](https://github.com/md-mridul-ali/md-mridul-ali/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -121,12 +119,17 @@ https://www.facebook.com/md.mridul.islam.801219
 
 ---
 
-# 👀 Profile Visitors
+<!-- # 👀 Profile Visitors
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=MD-MRIDUL-ALI&color=blue" />
 
+</p> -->
+# 👀 Profile Visitors
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+<img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
 </p>
 
 ---
