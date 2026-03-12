@@ -52,7 +52,8 @@ I enjoy learning new technologies and applying them to real-world problems.
 
 ## 🛠 Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,trello" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ---
