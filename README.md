@@ -45,9 +45,11 @@ I enjoy learning new technologies and applying them to real-world problems.
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
-## 🗄️ Database
+## 🗄 Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ## 🛠 Tools & Technologies
