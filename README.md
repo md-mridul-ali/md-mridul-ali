@@ -14,6 +14,11 @@ I enjoy learning new technologies and applying them to real-world problems.
 
 ---
 
+## ⏱ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 👨‍💻 About Me
 
 🎓 BSc in Computer Science & Engineering  
