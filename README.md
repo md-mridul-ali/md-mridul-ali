@@ -105,13 +105,13 @@ React, Tailwind CSS, DaisyUI
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=md-mridul-ali&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=md-mridul-ali&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mridul-ali&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mridul-ali&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 </p>
 
@@ -119,11 +119,10 @@ React, Tailwind CSS, DaisyUI
 
 # 🔥 GitHub Streak
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-mridul-ali&theme=tokyonight" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=md-mridul-ali&show_icons=true&cache_seconds=1800" /> -->
-
+<img src="https://streak-stats.demolab.com?user=md-mridul-ali&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
