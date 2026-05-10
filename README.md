@@ -22,7 +22,7 @@ I enjoy learning new technologies and applying them to real-world problems.
 
 </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
+# Projects Link
 
 <br>
 
@@ -37,7 +37,7 @@ Interactive English learning platform built using HTML, Tailwind CSS, DaisyUI, J
   <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/md-mridul-ali">
+<a href="https://github.com/md-mridul-ali/english-janala">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -55,7 +55,7 @@ Modern ticket management interface built with React, Tailwind CSS, and DaisyUI.
   <img src="https://img.shields.io/badge/Live_Demo-2962FF?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
-<a href="https://github.com/md-mridul-ali">
+<a href="https://github.com/md-mridul-ali/assignment-7">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -72,6 +72,10 @@ Responsive web project developed using modern frontend technologies.
 <a href="https://md-mridul-ali.github.io/assignment-5/">
   <img src="https://img.shields.io/badge/Live_Demo-FF6D00?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
+
+<a href="https://github.com/md-mridul-ali/assignment-5">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -85,6 +89,10 @@ Frontend practice project focused on responsive layout and UI design.
 <p>
 <a href="https://md-mridul-ali.github.io/assignment-2/">
   <img src="https://img.shields.io/badge/Live_Demo-673AB7?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+<a href="https://github.com/md-mridul-ali/assignment-2">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
