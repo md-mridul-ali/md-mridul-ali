@@ -22,6 +22,8 @@ I enjoy learning new technologies and applying them to real-world problems.
 
 </p>
 
+---
+
 # Projects Link
 
 <br>
