@@ -22,7 +22,73 @@ I enjoy learning new technologies and applying them to real-world problems.
 
 </p>
 
-## ⏱ WakaTime Stats
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br>
+
+<h3>📘 English Janala</h3>
+
+<p>
+Interactive English learning platform built using HTML, Tailwind CSS, DaisyUI, JavaScript, and API integration.
+</p>
+
+<p>
+<a href="https://md-mridul-ali.github.io/english-janala/">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/md-mridul-ali">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3>🎫 CS Ticket System</h3>
+
+<p>
+Modern ticket management interface built with React, Tailwind CSS, and DaisyUI.
+</p>
+
+<p>
+<a href="https://celadon-speculoos-9b755f.netlify.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-2962FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/md-mridul-ali">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3>🛒 Assignment 5 Project</h3>
+
+<p>
+Responsive web project developed using modern frontend technologies.
+</p>
+
+<p>
+<a href="https://md-mridul-ali.github.io/assignment-5/">
+  <img src="https://img.shields.io/badge/Live_Demo-FF6D00?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h3>💻 Assignment 2 Project</h3>
+
+<p>
+Frontend practice project focused on responsive layout and UI design.
+</p>
+
+<p>
+<a href="https://md-mridul-ali.github.io/assignment-2/">
+  <img src="https://img.shields.io/badge/Live_Demo-673AB7?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+</p>
+
+<!-- ## ⏱ WakaTime Stats -->
 
 <h2 align="center">📫 Connect With Me</h2>
 
