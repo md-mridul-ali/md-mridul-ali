@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=MD.%20Mridul%20Ali&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%7C%20SQA%20%26%20Test%20Automation&descAlignY=52&descSize=18" alt="header"/>
+<img width="100%" src="./assets/header-wave.svg" alt="MD. Mridul Ali — Software Engineer | SQA & Test Automation"/>
 
 <a href="https://github.com/md-mridul-ali">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=26D0CE&center=true&vCenter=true&width=650&lines=SQA+%26+Test+Automation+Engineer;Playwright+%7C+Selenium+%7C+Postman+%7C+JMeter;C%23+%7C+ASP.NET+Web+API+%7C+React.js;Exploring+AI-Driven+Test+Automation" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
 I build software **and** the tests that keep it honest.
 
-I'm a final-year **Computer Science & Engineering** student at **American International University-Bangladesh (AIUB)**, working at the intersection of software development and quality assurance. I write backend APIs in **C# / ASP.NET Web API**, build interfaces with **React.js**, and design end-to-end automation suites in **Playwright** and **Selenium WebDriver** using the **Page Object Model**.
+I'm a final-year **Computer Science & Engineering** student at **American International University-Bangladesh (AIUB)** (CGPA **3.66**), working at the intersection of software development and quality assurance. I write backend APIs in **C# / ASP.NET Web API**, build interfaces with **React.js**, and design end-to-end automation suites in **Playwright** and **Selenium WebDriver** using the **Page Object Model**.
 
 Lately I've been focused on **AI-assisted test automation** — using **Playwright MCP**, **LLMs**, and **GitHub Copilot** to generate, execute, and self-heal test suites from structured context files.
 
@@ -30,8 +30,8 @@ Lately I've been focused on **AI-assisted test automation** — using **Playwrig
 name:      MD. Mridul Ali
 role:      Software Engineer · SQA & Test Automation
 education: BSc in CSE, AIUB (2026) — CGPA 3.66
-focus:     [ Test Automation, API Testing, Backend Development, Frontend Development ]
-stack:     [ Playwright, Selenium, C#, ASP.NET, JavaScript, TypeScript, React.js, Next.js, C++, PHP, Python ]
+focus:     [ Test Automation, API Testing, Backend Development ]
+stack:     [ Playwright, Selenium, C#, ASP.NET, TypeScript, React ]
 learning:  [ AI-Driven Testing, Performance Testing, CI/CD Pipelines ]
 open_to:   [ SQA Engineer, QA Automation Engineer, Software Engineer ]
 contact:   mridulaiub17@gmail.com
@@ -112,16 +112,16 @@ contact:   mridulaiub17@gmail.com
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=md-mridul-ali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mridul-ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=md-mridul-ali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mridul-ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=md-mridul-ali&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=md-mridul-ali&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-mridul-ali&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-mridul-ali&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
 
@@ -183,6 +183,6 @@ Happy to talk about test automation, API quality, or anything in between.
 
 ***"Quality is never an accident; it is always the result of intelligent effort."***
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer" alt="footer"/>
+<img width="100%" src="./assets/footer-wave.svg" alt="footer"/>
 
 </div>
