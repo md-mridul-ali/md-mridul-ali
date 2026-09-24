@@ -29,7 +29,7 @@ Lately I've been focused on **AI-assisted test automation** — using **Playwrig
 ```yaml
 name:      MD. Mridul Ali
 role:      Software Engineer · SQA & Test Automation
-education: BSc in CSE, AIUB (2026) — CGPA 3.66
+education: BSc in CSE, AIUB (2026)
 focus:     [ Test Automation, API Testing, Backend Development ]
 stack:     [ Playwright, Selenium, C#, ASP.NET, TypeScript, React ]
 learning:  [ AI-Driven Testing, Performance Testing, CI/CD Pipelines ]
